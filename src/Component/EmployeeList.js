@@ -257,7 +257,7 @@ function EmployeeList() {
                     style={{ width: 160, textAlign: "center" }}
                     align="right"
                   >
-                    <button className="employee_status">Working</button>
+                    <button className="employee_status leave">Leave</button>
                   </TableCell>
                   <TableCell
                     style={{ width: 160, textAlign: "center" }}

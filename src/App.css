@@ -151,10 +151,12 @@
 }
 .list_container .right .image_frame {
   height: 250px;
-  width: 250px;
+  width: 200px;
   border-radius: 4px;
   background-color: #f4f4f4;
-  background-image: url("./Assets/Profile.jpg.");
+  background-image: url("./Assets/Profile.jpg");
+  background-repeat: no-repeat;
+  object-fit: cover;
 }
 .right .image_frame {
   display: flex;

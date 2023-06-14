@@ -140,7 +140,7 @@ function Preview() {
             </div>
             <div className="right">
               <div className="image_frame">
-                <CollectionsIcon />
+                {/* <CollectionsIcon /> */}
               </div>
               <div className="image_details">
                 <div
